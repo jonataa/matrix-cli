@@ -54,7 +54,7 @@ log - logs output from selected MatrixOS
 
 ## Login First
 
-Register first for an account at [http://admobilize.com](AdMobilize)
+Register first for an account at [AdMobilize](http://admobilize.com)
 ```
 > matrix login
 ```
@@ -81,7 +81,7 @@ Select a device ID from this list.
 ## Simulator Selection
 
 ### Setup A Simulator
-Firstly, [https://docs.docker.com/engine/installation/](Install Docker)
+Firstly, [Install Docker](https://docs.docker.com/engine/installation/)
 
 ### New to Docker?
 ```
@@ -153,9 +153,9 @@ matrix log
 
 ## Now What?
 
-- Visit your [http://dev.admobilize.com/](dashboard)
-- Make some Appz [http://api.admobilize.com/](API)
-- Be an [http://developers.admobilize.com](adDeveloper)
+- Visit your [dashboard](http://dev.admobilize.com/)
+- Make some Appz [API](http://api.admobilize.com/)
+- Be an [adDeveloper](http://developers.admobilize.com)
 
 ## Matrix App Development
 
